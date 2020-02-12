@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Higher Lower</string>
+  <string name="title">guess if next one is higher or lower</string>
+  <string name="dice6">dice6</string>
+  <string name="lower">lower</string>
+  <string name="equal">equal</string>
+  <string name="higher">higher</string>
+  <string name="last_Throw">last throw: %d</string>
+  <string name="correct">COOL!</string>
+  <string name="incorrect">LOSER!</string>
+</resources>
